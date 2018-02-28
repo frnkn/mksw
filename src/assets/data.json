@@ -1,0 +1,2778 @@
+[
+    {
+      "area": "2b",
+      "street_name": "Abt-Burkard-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Adalbert-Stifter-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Adam-Lang-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Adam-Stegerwald-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Adam-Zorn-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Adolf-Kolping-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Adolf-Ley-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Ahornstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Aischweg"
+    },
+    {
+      "area": "4a",
+      "street_name": "Alaskastraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Albertistraße 11 - 25"
+    },
+    {
+      "area": "1a",
+      "street_name": "Albertistraße 18 - 34"
+    },
+    {
+      "area": "1b",
+      "street_name": "Albertistraße 1 - 9"
+    },
+    {
+      "area": "1b",
+      "street_name": "Albertistraße 2 - 16"
+    },
+    {
+      "area": "5a",
+      "street_name": "Albert-Schweitzer-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Albin-Kitzinger-Straße"
+    },
+    {
+      "area": "2a Albrecht-Dürer-Platz",
+      "street_name": ""
+    },
+    {
+      "area": "1a",
+      "street_name": "Alfons-Goppel-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Alois-Türk-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Alte Bahnhofstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Altenbergstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Alte Stadtgärtnerei"
+    },
+    {
+      "area": "3b",
+      "street_name": "Alter Wartweg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Altmühlweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Altstadtstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Am Anger"
+    },
+    {
+      "area": "5a",
+      "street_name": "Am Bergl"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Bramberg"
+    },
+    {
+      "area": "3a",
+      "street_name": "Am Breiten Weg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Am Deutschhof"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Entensee"
+    },
+    {
+      "area": "5b",
+      "street_name": "Am Feldtor"
+    },
+    {
+      "area": "3a",
+      "street_name": "Am Friedhof"
+    },
+    {
+      "area": "1b",
+      "street_name": "Am Geheegberg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Am Gottesberg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Am Haag"
+    },
+    {
+      "area": "5a",
+      "street_name": "Am Herroth"
+    },
+    {
+      "area": "1b",
+      "street_name": "Am Klössberg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Am Kührasen"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Löhlein"
+    },
+    {
+      "area": "2a",
+      "street_name": "Am Mühltor"
+    },
+    {
+      "area": "2a",
+      "street_name": "Am Nadelöhr"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Oberen Marienbach"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Oberen Wall"
+    },
+    {
+      "area": "5b",
+      "street_name": "Am Oberndorfer Weiher"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Obertor"
+    },
+    {
+      "area": "4a",
+      "street_name": "Am Ochsenrasen"
+    },
+    {
+      "area": "1b",
+      "street_name": "Am Pfaffenberg"
+    },
+    {
+      "area": "5b",
+      "street_name": "Am Rainlein"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Sand"
+    },
+    {
+      "area": "1a",
+      "street_name": "Am Schöttlein"
+    },
+    {
+      "area": "2a",
+      "street_name": "Am Schrotturm"
+    },
+    {
+      "area": "2a",
+      "street_name": "Am Schweinfurter Kreuz"
+    },
+    {
+      "area": "4a",
+      "street_name": "Am Siechgrund"
+    },
+    {
+      "area": "1b",
+      "street_name": "Am Sprinzenbaum"
+    },
+    {
+      "area": "1b",
+      "street_name": "Am Stauweiher"
+    },
+    {
+      "area": "1b",
+      "street_name": "Am Steinberg"
+    },
+    {
+      "area": "5b",
+      "street_name": "Am Stichlein"
+    },
+    {
+      "area": "2a",
+      "street_name": "Am Unteren Marienbach"
+    },
+    {
+      "area": "2a",
+      "street_name": "Am Unteren Wall"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Vogelschuss"
+    },
+    {
+      "area": "5a",
+      "street_name": "Am Wasserturm"
+    },
+    {
+      "area": "2b",
+      "street_name": "Am Zeughaus"
+    },
+    {
+      "area": "2a",
+      "street_name": "Am Zollhof"
+    },
+    {
+      "area": "3a",
+      "street_name": "Amselstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Amsterdamstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "An den Brennöfen"
+    },
+    {
+      "area": "1b",
+      "street_name": "An den Eichen"
+    },
+    {
+      "area": "3b",
+      "street_name": "An den Lehmgruben"
+    },
+    {
+      "area": "2b",
+      "street_name": "An den Schanzen"
+    },
+    {
+      "area": "1b",
+      "street_name": "An den Unteren Eichen"
+    },
+    {
+      "area": "3a",
+      "street_name": "An der Eselshöhe"
+    },
+    {
+      "area": "2a",
+      "street_name": "An der Goldquelle"
+    },
+    {
+      "area": "1a",
+      "street_name": "An der Holzspitze"
+    },
+    {
+      "area": "2b",
+      "street_name": "An der Peterstirn"
+    },
+    {
+      "area": "3b",
+      "street_name": "An der Pfanne"
+    },
+    {
+      "area": "1b",
+      "street_name": "An der Turngemeinde"
+    },
+    {
+      "area": "3a",
+      "street_name": "An der Ziegelgrube"
+    },
+    {
+      "area": "4a",
+      "street_name": "Ander-Kupfer-Platz"
+    },
+    {
+      "area": "3a",
+      "street_name": "Annette-Kolb-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Anton-Jackel-Weg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Anton-Niedermeier-Platz"
+    },
+    {
+      "area": "2a",
+      "street_name": "Apostelgasse"
+    },
+    {
+      "area": "4a",
+      "street_name": "Armin-Knab-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Arndtstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Arnsbergstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Athenstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Auenstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Auenstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Auenstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Auenstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "August-Deubert-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Aurachweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Babenbergerstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Bachstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Bahnhofsplatz"
+    },
+    {
+      "area": "2b",
+      "street_name": "Bauerngasse"
+    },
+    {
+      "area": "1a",
+      "street_name": "Bauersbergstraße"
+    },
+    {
+      "area": "1a Baunachweg",
+      "street_name": ""
+    },
+    {
+      "area": "4b",
+      "street_name": "Bauschstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Bauvereinstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Bayernstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Beethovenstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Benno-Merkle-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Bergrheinfelder Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Bergstraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Berliner Platz"
+    },
+    {
+      "area": "1a",
+      "street_name": "Bernhard-Schineller-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Bertha-von-Suttner-Straße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Bertolt-Brecht-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Bessererstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Birkenstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Blaue Leite"
+    },
+    {
+      "area": "3b",
+      "street_name": "Blumenstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Bodelschwinghstraße 1"
+    },
+    {
+      "area": "3b",
+      "street_name": "Bodelschwinghstraße  2 -28"
+    },
+    {
+      "area": "4b",
+      "street_name": "Bodelschwinghstraße  3"
+    },
+    {
+      "area": "2b",
+      "street_name": "Bodengasse"
+    },
+    {
+      "area": "1b",
+      "street_name": "Breite Wiese"
+    },
+    {
+      "area": "1a",
+      "street_name": "Brendweg"
+    },
+    {
+      "area": "5a",
+      "street_name": "Breslaustraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Brombergstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Brückenstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Brüsselstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Bürgergasse"
+    },
+    {
+      "area": "2a",
+      "street_name": "Burggasse"
+    },
+    {
+      "area": "3a",
+      "street_name": "Bussardstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Carl-Benz-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Carl-Orff-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Carl-Spitzweg-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Carl-Zeiss-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Celtesstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Celtesstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Celtesstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Celtesstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Christoph-Krebs-Straße 1 - 13"
+    },
+    {
+      "area": "1a",
+      "street_name": "Christoph-Krebs-Straße 15 - 25"
+    },
+    {
+      "area": "1b",
+      "street_name": "Christoph-Krebs-Straße 2 - 6"
+    },
+    {
+      "area": "1a",
+      "street_name": "Christoph-Krebs-Straße 8 - 22"
+    },
+    {
+      "area": "4a",
+      "street_name": "Coloradostraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Cramerstraße 161⁄2 - 28"
+    },
+    {
+      "area": "4b",
+      "street_name": "Cramerstraße 7 - 19"
+    },
+    {
+      "area": "4a",
+      "street_name": "Cramerstraße 1 - 5"
+    },
+    {
+      "area": "4a",
+      "street_name": "Cramerstraße 81⁄2 - 16"
+    },
+    {
+      "area": "1b",
+      "street_name": "Cuspinianstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Franz-Schubert-Straße 26 - 36"
+    },
+    {
+      "area": "2b",
+      "street_name": "Graben"
+    },
+    {
+      "area": "2a",
+      "street_name": "Hellersgasse"
+    },
+    {
+      "area": "4b",
+      "street_name": "Damaschkeplatz"
+    },
+    {
+      "area": "2a",
+      "street_name": "Frauengasse"
+    },
+    {
+      "area": "2b",
+      "street_name": "Graf-Berthold-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Helsinkistraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Damaschkestraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Freitagstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Grasmückenweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Hennebergstraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Danzigstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Friedenstraße 7½ - 23"
+    },
+    {
+      "area": "4a",
+      "street_name": "Gretel-Baumbach-Straße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Herbert-Müller-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Degnerstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Friedenstraße 1 - 7"
+    },
+    {
+      "area": "1a",
+      "street_name": "Greulstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Herdgasse"
+    },
+    {
+      "area": "2b",
+      "street_name": "Deutschfeldstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Friedenstraße 4 - 24"
+    },
+    {
+      "area": "4a",
+      "street_name": "Gunnar-Wester-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Hermann-Barthel-Straße 29"
+    },
+    {
+      "area": "1b",
+      "street_name": "Deutschhöfer Straße 28 - 62"
+    },
+    {
+      "area": "3a",
+      "street_name": "Friedhofstraße 1 - 33"
+    },
+    {
+      "area": "2b",
+      "street_name": "Gustav-Adolf-Straße 1 - 29"
+    },
+    {
+      "area": "5a",
+      "street_name": "Hermann-Barthel-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Deutschhöfer Straße 51 - 79"
+    },
+    {
+      "area": "3a",
+      "street_name": "Friedhofstraße 2 - 26"
+    },
+    {
+      "area": "1a",
+      "street_name": "Gustav-Adolf-Straße 31 - 33"
+    },
+    {
+      "area": "5b",
+      "street_name": "Hermann-Gräf-Allee"
+    },
+    {
+      "area": "3a",
+      "street_name": "Deutschhöfer Straße 1 - 49"
+    },
+    {
+      "area": "3b",
+      "street_name": "Friedhofstraße 35"
+    },
+    {
+      "area": "2b",
+      "street_name": "Gustav-Adolf-Straße 8 - 10"
+    },
+    {
+      "area": "3b",
+      "street_name": "Hermann-Löns-Straße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Deutschhöfer Straße 2 - 6"
+    },
+    {
+      "area": "3a",
+      "street_name": "Friedrich-Dürrenmatt-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Gustav-Heusinger-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Heunischstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Deutschhöfer Straße 8 - 24"
+    },
+    {
+      "area": "4b",
+      "street_name": "Friedrich-Ebert-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Gustav-Mahler-Weg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Hezilostraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Dittelbrunner Straße 2 - 92"
+    },
+    {
+      "area": "2a",
+      "street_name": "Friedrich-Gauss-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Gustl-Kirchner-Straße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Hirschbergstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Dittelbrunner Straße 5 - 51"
+    },
+    {
+      "area": "5b",
+      "street_name": "Friedrich-Pfister-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Gutermann-Promenade"
+    },
+    {
+      "area": "2b",
+      "street_name": "Hirtengasse"
+    },
+    {
+      "area": "3a",
+      "street_name": "Drosselstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Friedrich-Rätzer-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Gymnasiumstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Hochfeldstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Dublinstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Friedrich-Russ-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Hoefelstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Friedrich-Seyffert-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Haardtberg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Hofrat-Graetz-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Ebersbergstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Friedrich-Stein-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Hadergasse"
+    },
+    {
+      "area": "2a",
+      "street_name": "Hohe Brückengasse"
+    },
+    {
+      "area": "1a",
+      "street_name": "Ebrachweg"
+    },
+    {
+      "area": "4a",
+      "street_name": "Friedrichstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Hafenstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Hohmannstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Edmund-Habermann-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Fritz-Drescher-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Hainigweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Höllental"
+    },
+    {
+      "area": "3a",
+      "street_name": "Eichendorffstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Fritz-Soldmann-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Händelstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Hornpfad"
+    },
+    {
+      "area": "2b",
+      "street_name": "Eilastraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Frühlingstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Hans-Appold-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Hutrasen"
+    },
+    {
+      "area": "5a",
+      "street_name": "Einsteinstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Fuchsgasse"
+    },
+    {
+      "area": "2a",
+      "street_name": "Hans-Böckler-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Elsa-Brändström-Straße 1 - 73"
+    },
+    {
+      "area": "1b",
+      "street_name": "Hans-Holbein-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Ignaz-Schön-Straße 1 - 11"
+    },
+    {
+      "area": "1a",
+      "street_name": "Elsa-Brändström-Straße 42 - 76"
+    },
+    {
+      "area": "4b",
+      "street_name": "Gabelsbergerstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Hans-Lingl-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Ignaz-Schön-Straße 2 -30"
+    },
+    {
+      "area": "2b",
+      "street_name": "Elsa-Brändström-Straße 8 - 40"
+    },
+    {
+      "area": "3b",
+      "street_name": "Galgenleite"
+    },
+    {
+      "area": "1a",
+      "street_name": "Hans-Nickel-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Ignaz-Schön-Straße 32 -46"
+    },
+    {
+      "area": "3a",
+      "street_name": "Elsterstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Gangolfsbergstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Hans-Weinzierl-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Ilmenbergstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Engelbert-Fries-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Gartenpfad"
+    },
+    {
+      "area": "1b",
+      "street_name": "Harald-Hamberg-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Im I. Wehr"
+    },
+    {
+      "area": "3a",
+      "street_name": "Erich-Kästner-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Gartenstadtstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Hartlaubstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Im 2. Wehr"
+    },
+    {
+      "area": "1b",
+      "street_name": "Ernst-Herrmann-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Gartenstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Hassbergstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Im Steinach"
+    },
+    {
+      "area": "1a",
+      "street_name": "Ernst-Paul-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Gartenstraße 37"
+    },
+    {
+      "area": "4a",
+      "street_name": "Hauptbahnhofstraße 2 - 2a"
+    },
+    {
+      "area": "1b",
+      "street_name": "Im Zeller Grund"
+    },
+    {
+      "area": "3b",
+      "street_name": "Ernst-Reuter-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Geiersbergstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Hauptbahnhofstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "In den Maingärten"
+    },
+    {
+      "area": "5b",
+      "street_name": "Ernst-Sachs-Straße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Geldersheimer Straße 1 - 15"
+    },
+    {
+      "area": "5b",
+      "street_name": "Hauptstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Ina-Seidel-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Eschenweg"
+    },
+    {
+      "area": "5a",
+      "street_name": "Geldersheimer Straße 2 - 82"
+    },
+    {
+      "area": "4a",
+      "street_name": "Haydnstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Itzweg"
+    },
+    {
+      "area": "4a",
+      "street_name": "Euerbacher Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Geldersheimer Straße 84 - 92"
+    },
+    {
+      "area": "5a",
+      "street_name": "Haylmannstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Europa-Allee"
+    },
+    {
+      "area": "2a",
+      "street_name": "Genfstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Hebbelstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Jackson Street"
+    },
+    {
+      "area": "3b",
+      "street_name": "Georg-Groha-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Hebererstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Jägersbrunnen 2 - 6 A"
+    },
+    {
+      "area": "3a",
+      "street_name": "Falkenring"
+    },
+    {
+      "area": "4a",
+      "street_name": "Georg-Schäfer-Straße 12 - 30"
+    },
+    {
+      "area": "3a",
+      "street_name": "Heckenweg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Jägersbrunnen 5 - 11"
+    },
+    {
+      "area": "3a",
+      "street_name": "Fasanenweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Georg-Schäfer-Straße 5 - 7"
+    },
+    {
+      "area": "4a",
+      "street_name": "Heeresstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Jägerstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Fehrstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Georg-Schäfer-Straße 9 - 71"
+    },
+    {
+      "area": "1a",
+      "street_name": "Heidelsteinstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Jagstweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Feldgasse"
+    },
+    {
+      "area": "3b",
+      "street_name": "Georg-Schwarz-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Heimburgstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Jahnstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Fennstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Georg-Spohn-Straße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Heimgartenweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Jehlestraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Feuerbergstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Georg-Wichtermann-Platz"
+    },
+    {
+      "area": "3a",
+      "street_name": "Heimstättenstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Joachim-Ringelnatz-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Fichtestraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Gerhart-Hauptmann-Straße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Heinestraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Johann-Gg.-Gademann-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Finkenweg"
+    },
+    {
+      "area": "3a",
+      "street_name": "Gertrud-Herz-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Heini-Dittmar-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Johannisgasse"
+    },
+    {
+      "area": "2a",
+      "street_name": "Fischerrain"
+    },
+    {
+      "area": "4a",
+      "street_name": "Geschwister-Scholl-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Heinrich-Beck-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Johann-Riedel-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Fischersteig"
+    },
+    {
+      "area": "4a",
+      "street_name": "Giegler-Pascha-Straße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Heinrich-Böll-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Johann-Schirmer-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Florian-Geyer-Straße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Gleiwitzstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Heinrich-Lauer-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Johann-Seb.-Bach-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Frankenstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Glockenhof"
+    },
+    {
+      "area": "4a",
+      "street_name": "Heinrich-Spiess-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Jonas-Wehner-Straße 1 - 17"
+    },
+    {
+      "area": "1a",
+      "street_name": "Frankenwaldstraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Glogaustraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Heinrichstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Jonas-Wehner-Straße 19 - 29"
+    },
+    {
+      "area": "3b",
+      "street_name": "Franz-Liszt-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Goethestraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Heinrich-Winkler-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Jonas-Wehner-Straße 2 -24"
+    },
+    {
+      "area": "1b",
+      "street_name": "Franz-Marc-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Gorch-Fock-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Heinrich-Zierl-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Jonas-Wehner-Straße 26 - 40"
+    },
+    {
+      "area": "3b",
+      "street_name": "Franz-Schubert-Straße 1 - 17"
+    },
+    {
+      "area": "2a",
+      "street_name": "Gottfried-Schenker-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Heisenbergstraße 13 - 21 u. 34"
+    },
+    {
+      "area": "4a",
+      "street_name": "Josef-Reuss-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Franz-Schubert-Straße 2 - 20"
+    },
+    {
+      "area": "1b",
+      "street_name": "Göteborgstraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Heisenbergstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Josef-Säckler-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Josef-Werner-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Markgrafenstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Obere Straße 1 - 21"
+    },
+    {
+      "area": "1a",
+      "street_name": "Jossaweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Landwehrstraße 12 - 46"
+    },
+    {
+      "area": "2a",
+      "street_name": "Markt (Stände) 1 - 31"
+    },
+    {
+      "area": "2a",
+      "street_name": "Obere Straße 10 u. 16 - 20"
+    },
+    {
+      "area": "2a",
+      "street_name": "Judengasse"
+    },
+    {
+      "area": "4a",
+      "street_name": "Landwehrstraße 4"
+    },
+    {
+      "area": "2a",
+      "street_name": "Markt 2 u. 20 - 28"
+    },
+    {
+      "area": "2b",
+      "street_name": "Obere Straße 2 - 8"
+    },
+    {
+      "area": "2b",
+      "street_name": "Judithstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Landwehrstraße 9 - 45"
+    },
+    {
+      "area": "2b",
+      "street_name": "Markt 4 - 12 u. 30"
+    },
+    {
+      "area": "2b",
+      "street_name": "Obere Straße 22 - 36"
+    },
+    {
+      "area": "3a",
+      "street_name": "Lange Schränke"
+    },
+    {
+      "area": "2b",
+      "street_name": "Markt 49 - 53"
+    },
+    {
+      "area": "5b",
+      "street_name": "Obere Weiden"
+    },
+    {
+      "area": "1b",
+      "street_name": "Käthe-Kollwitz-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Lange Zehntstraße 1 - 11"
+    },
+    {
+      "area": "3b",
+      "street_name": "Marsstraße 1 - 11"
+    },
+    {
+      "area": "4a",
+      "street_name": "Oberer Geldersheimer Weg"
+    },
+    {
+      "area": "4a",
+      "street_name": "Kalifornienstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Lange Zehntstraße 2 - 18 ½"
+    },
+    {
+      "area": "4b",
+      "street_name": "Marsstraße 16 - 28"
+    },
+    {
+      "area": "5a",
+      "street_name": "Oskar-von-Miller-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Kantstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Lange Zehntstraße 20"
+    },
+    {
+      "area": "3b",
+      "street_name": "Marsstraße 2 - 14"
+    },
+    {
+      "area": "4a",
+      "street_name": "Osterlänge"
+    },
+    {
+      "area": "1a",
+      "street_name": "Karl-Brand-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Lauerweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Marsstraße 13 - 19"
+    },
+    {
+      "area": "2a",
+      "street_name": "Oslostraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Karl-Fichtel-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Leibnizstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Martin-Luther-Platz"
+    },
+    {
+      "area": "4b",
+      "street_name": "Ottostraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Karl-Götz-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Leislerstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Matthäus-Stäblein-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Karl-Peters-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Lessingstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Matthias-Grünewald-Ring"
+    },
+    {
+      "area": "2a",
+      "street_name": "Parisstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Karl-Riederer-Straße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Liegnitzstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Max-Kaiser-Straße 17"
+    },
+    {
+      "area": "4a",
+      "street_name": "Paul-Gerhardt-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Karl-Schemmrich-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Lilienthalstraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Max-Kaiser-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Paul-Klee-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Kasernenweg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Lindenbrunnenweg"
+    },
+    {
+      "area": "4a",
+      "street_name": "Max-Planck-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Paul-Rosa-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Kerschensteinerstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Lindenstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Max-Reger-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Pestalozzistraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Kesslergasse"
+    },
+    {
+      "area": "2a",
+      "street_name": "Linsengasse"
+    },
+    {
+      "area": "5b",
+      "street_name": "Mechwartstraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Peter-Krammer-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Kettelerstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Lissabonstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Meisenweg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Petersgasse"
+    },
+    {
+      "area": "5b",
+      "street_name": "Kiesgrubenweg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Londonstraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Memelstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Pfarrgasse"
+    },
+    {
+      "area": "4b",
+      "street_name": "Kilian-Göbel-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Lortzingstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Merckstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Pfarrgraben"
+    },
+    {
+      "area": "2b",
+      "street_name": "Kiliansberg 1 - 15"
+    },
+    {
+      "area": "2b",
+      "street_name": "Louise-Schröder-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Metzgergasse"
+    },
+    {
+      "area": "5b",
+      "street_name": "Pfisterpark"
+    },
+    {
+      "area": "2b",
+      "street_name": "Kiliansberg 4 ½ - 12"
+    },
+    {
+      "area": "1b",
+      "street_name": "Lucas-Cranach-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Montanastraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Pfisterplatz"
+    },
+    {
+      "area": "2a",
+      "street_name": "Kiliansberg 2 - 4"
+    },
+    {
+      "area": "1b",
+      "street_name": "Lüderitzstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Moritz-Fischer-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Philosophengang"
+    },
+    {
+      "area": "2a",
+      "street_name": "Kirchgasse 1 - 15"
+    },
+    {
+      "area": "1a",
+      "street_name": "Ludwig-Erhard-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Mozartstraße 1 - 45"
+    },
+    {
+      "area": "3a",
+      "street_name": "Pirolweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Kirchgasse 17 - 21"
+    },
+    {
+      "area": "5b",
+      "street_name": "Ludwig-Krug-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Mozartstraße 8 ½ - 12"
+    },
+    {
+      "area": "1a",
+      "street_name": "Pleichachweg"
+    },
+    {
+      "area": "3b",
+      "street_name": "Kleinflürleinsweg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Ludwig-Richter-Weg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Porschestraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Kleiststraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Ludwigstraße 1 - 35"
+    },
+    {
+      "area": "3a",
+      "street_name": "Nachtigallenweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Klingenbrunnstraße 1 - 31"
+    },
+    {
+      "area": "4b",
+      "street_name": "Ludwigstraße 2 - 30"
+    },
+    {
+      "area": "1a",
+      "street_name": "Nassachweg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Klingenbrunnstraße 22 - 52"
+    },
+    {
+      "area": "4a",
+      "street_name": "Ludwigstraße 34 - 46"
+    },
+    {
+      "area": "3a",
+      "street_name": "Nelly-Sachs-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Klingenbrunnstraße 33 - 67"
+    },
+    {
+      "area": "4a",
+      "street_name": "Ludwigstraße 39 - 57"
+    },
+    {
+      "area": "2b",
+      "street_name": "Neue Gasse"
+    },
+    {
+      "area": "4a",
+      "street_name": "Raspillerstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Klingenbrunnstraße 8 - 20"
+    },
+    {
+      "area": "3a",
+      "street_name": "Ludwig-Thoma-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Neue Leite"
+    },
+    {
+      "area": "1a",
+      "street_name": "Rassdörferstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Klingenhöhe"
+    },
+    {
+      "area": "4a",
+      "street_name": "Luitpoldstraße 1 - 47"
+    },
+    {
+      "area": "1b",
+      "street_name": "Neuschwangerstraße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Ratiborstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Klingenweg"
+    },
+    {
+      "area": "4a",
+      "street_name": "Luitpoldstraße 60 - 64"
+    },
+    {
+      "area": "3a",
+      "street_name": "Neutorstraße 16 - 44"
+    },
+    {
+      "area": "1a",
+      "street_name": "Reesbergstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Knaufstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Luitpoldstraße 2 - 48"
+    },
+    {
+      "area": "3a",
+      "street_name": "Neutorstraße 19 - 47"
+    },
+    {
+      "area": "1a",
+      "street_name": "Regnitzweg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Knetzbergstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Luxemburgstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Neutorstraße 3 - 17"
+    },
+    {
+      "area": "3a",
+      "street_name": "Rhönstraße 1 - 9"
+    },
+    {
+      "area": "1a",
+      "street_name": "Kocherweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Neutorstraße 2 - 12"
+    },
+    {
+      "area": "3a",
+      "street_name": "Rhönstraße 2 - 32"
+    },
+    {
+      "area": "5a",
+      "street_name": "Königsbergstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Madridstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Niederwerrner Straße 1"
+    },
+    {
+      "area": "3b",
+      "street_name": "Rhönstraße 21 - 27"
+    },
+    {
+      "area": "1a",
+      "street_name": "Konrad-Adenauer-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Maibacher Straße 11 - 33"
+    },
+    {
+      "area": "3b",
+      "street_name": "Niederwerrner Straße 12½ - 46"
+    },
+    {
+      "area": "4a",
+      "street_name": "Richard-Strauß-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Konrad-Geiger-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Maibacher Straße 36 - 44"
+    },
+    {
+      "area": "4b",
+      "street_name": "Niederwerrner Straße 151/3 - 73"
+    },
+    {
+      "area": "4a",
+      "street_name": "Richard-Wagner-Straße 1 - 25"
+    },
+    {
+      "area": "5b",
+      "street_name": "Konrad-Rimrod-Straße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Maibacher Straße 47 - 165"
+    },
+    {
+      "area": "3a",
+      "street_name": "Niederwerrner Straße 2 - 12"
+    },
+    {
+      "area": "4b",
+      "street_name": "Richard-Wagner-Straße 2 - 26"
+    },
+    {
+      "area": "4b",
+      "street_name": "Konrad-Zeitlos-Straße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Maibacher Straße 50 - 212"
+    },
+    {
+      "area": "4b",
+      "street_name": "Niederwerrner Straße 48 - 96"
+    },
+    {
+      "area": "1a",
+      "street_name": "Riedbachweg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Kopenhagenstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Mainberger Straße 11 u. 67 - 93"
+    },
+    {
+      "area": "4a",
+      "street_name": "Niederwerrner Straße 89 - 125"
+    },
+    {
+      "area": "2a",
+      "street_name": "Rittergasse"
+    },
+    {
+      "area": "4b",
+      "street_name": "Kornacherstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Mainberger Straße 13"
+    },
+    {
+      "area": "4a",
+      "street_name": "Niederwerrner Straße 98 - 390"
+    },
+    {
+      "area": "2a",
+      "street_name": "Robert-Bosch-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Körnerstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Mainberger Straße 8 - 48"
+    },
+    {
+      "area": "4b",
+      "street_name": "Nikolaus-Hofmann-Str. 1 - 15"
+    },
+    {
+      "area": "2b",
+      "street_name": "Robert-Koch-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Kornmarkt"
+    },
+    {
+      "area": "2a",
+      "street_name": "Mainaussicht"
+    },
+    {
+      "area": "3b",
+      "street_name": "Nikolaus-Hofmann-Str. 17 - 43"
+    },
+    {
+      "area": "1a",
+      "street_name": "Rodachweg"
+    },
+    {
+      "area": "5b",
+      "street_name": "Kornstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Maingasse"
+    },
+    {
+      "area": "3b",
+      "street_name": "Nikolaus-Hofmann-Str. 2 - 14"
+    },
+    {
+      "area": "2a",
+      "street_name": "Romstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Kreuzbergstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Maininsel"
+    },
+    {
+      "area": "1b",
+      "street_name": "Nordendstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Röntgenstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Kreuzstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Manggasse 1 - 21"
+    },
+    {
+      "area": "1a",
+      "street_name": "Nussbergstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Roseggerstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Krumme Gasse"
+    },
+    {
+      "area": "2a",
+      "street_name": "Manggasse 2 - 24"
+    },
+    {
+      "area": "2a",
+      "street_name": "Nussgasse"
+    },
+    {
+      "area": "2a",
+      "street_name": "Rosengasse"
+    },
+    {
+      "area": "1a",
+      "street_name": "Kurt-Georg-Kiesinger-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Margarete-Kallmann-Straße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Nutzweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Roßbrunnstraße 2 - 20 ½"
+    },
+    {
+      "area": "2a",
+      "street_name": "Kurt-Römer-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Marie-Elisabeth-Lüders-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Roßbrunnstraße 22 - 34"
+    },
+    {
+      "area": "1a",
+      "street_name": "Kurt-Schumacher-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Marie-Juchacz-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Oak Street"
+    },
+    {
+      "area": "2b",
+      "street_name": "Roßbrunnstraße 3 - 9 ½ u. 15 - 29"
+    },
+    {
+      "area": "2a",
+      "street_name": "Marienbrücke"
+    },
+    {
+      "area": "2b",
+      "street_name": "Obere Mainleite"
+    },
+    {
+      "area": "3b",
+      "street_name": "Roßbrunnstraße 35 - 41"
+    },
+    {
+      "area": "1b",
+      "street_name": "Quellenweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Roßbrunnstraße 1 u. 11 - 13"
+    },
+    {
+      "area": "2b",
+      "street_name": "Söldnerstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Weingartenweg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Wörnitzweg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Roßmarkt 1 - 9"
+    },
+    {
+      "area": "3b",
+      "street_name": "Sonnenstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Weissmainweg"
+    },
+    {
+      "area": "5b",
+      "street_name": "Würzburger Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Roßmarkt 2 - 24"
+    },
+    {
+      "area": "1b",
+      "street_name": "Spalatinstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Weisachweg"
+    },
+    {
+      "area": "5b",
+      "street_name": "Wüstenfeldstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Rotkehlchenweg"
+    },
+    {
+      "area": "3a",
+      "street_name": "Sperberstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Werkstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Rückertstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Sperlingstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Werner-von-Siemens-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Zabelsteinstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Rudolf-Diesel-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Spessartstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Wernweg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Zehntstraße 1 - 17 u. 26 - 28"
+    },
+    {
+      "area": "4a",
+      "street_name": "Rudolfstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Spitalseeplatz"
+    },
+    {
+      "area": "2a",
+      "street_name": "Wienstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Zehntstraße 2 - 24"
+    },
+    {
+      "area": "2b",
+      "street_name": "Rüfferstraße 2"
+    },
+    {
+      "area": "2a",
+      "street_name": "Spitalstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Wiesengasse"
+    },
+    {
+      "area": "3a",
+      "street_name": "Zeisigstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Rüfferstraße 1"
+    },
+    {
+      "area": "2a",
+      "street_name": "Stadtknechtsgasse"
+    },
+    {
+      "area": "1a",
+      "street_name": "Wiesentweg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Zeller Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Rüfferstraße 3 - 5 ½"
+    },
+    {
+      "area": "3b",
+      "street_name": "Stangenbrunnenweg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Wildbergstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Zellerau"
+    },
+    {
+      "area": "2a",
+      "street_name": "Rusterberg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Steigerwaldstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Wilhelm-Bechert-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Zeppelinstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Steingasse"
+    },
+    {
+      "area": "3a",
+      "street_name": "Wilhelm-Busch-Straße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Zur Wasserleitung"
+    },
+    {
+      "area": "1a",
+      "street_name": "Saaleweg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Stepfgasse"
+    },
+    {
+      "area": "5b",
+      "street_name": "Wilhelm-Georg-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Zürch"
+    },
+    {
+      "area": "5b",
+      "street_name": "Sachskolonie"
+    },
+    {
+      "area": "5b",
+      "street_name": "Stephanstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Wilhelm-Höpflinger-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Zwinger"
+    },
+    {
+      "area": "1a",
+      "street_name": "Sambachweg"
+    },
+    {
+      "area": "3a",
+      "street_name": "Stieglitzweg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Wilhelm-Leibl-Weg"
+    },
+    {
+      "area": "3a",
+      "street_name": "Sankt-Anton-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Stockholmstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Wilhelm-Leuschner-Straße"
+    },
+    {
+      "area": "5a",
+      "street_name": "Sankt-Bruno-Straße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Stöhrstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Wilhelmstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Sankt-Kilian-Straße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Stösselstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Wilhelm-Zinn-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Sattlerstraße 11 - 31"
+    },
+    {
+      "area": "2a",
+      "street_name": "Straßburgstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Willi-Kaidel-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Sattlerstraße 6 - 14"
+    },
+    {
+      "area": "5b",
+      "street_name": "Stresemannstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Willstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Sattlerstraße 1 - 9"
+    },
+    {
+      "area": "5a",
+      "street_name": "Sudetenstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Willy-Brandt-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Sattlerstraße 2"
+    },
+    {
+      "area": "1b",
+      "street_name": "Sutelliusstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Wingertstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Saurangen"
+    },
+    {
+      "area": "2a",
+      "street_name": "Sven-Winquist-Straße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Wirsingstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Schadstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Wohlfahrtstraße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Schelmsrasen 1 - 29"
+    },
+    {
+      "area": "1b",
+      "street_name": "Tannenweg"
+    },
+    {
+      "area": "2b",
+      "street_name": "Wolfsgasse"
+    },
+    {
+      "area": "3b",
+      "street_name": "Schelmsrasen 2 - 40"
+    },
+    {
+      "area": "1a",
+      "street_name": "Tauberweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Schelmsrasen 31 - 81"
+    },
+    {
+      "area": "1b",
+      "street_name": "Teilberg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Schelmsrasen 44 - 66"
+    },
+    {
+      "area": "4a",
+      "street_name": "Texasstraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Schermbacherstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Theodor-Fischer-Platz"
+    },
+    {
+      "area": "1b",
+      "street_name": "Schießplatz"
+    },
+    {
+      "area": "1a",
+      "street_name": "Theodor-Heuss-Straße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Schillerplatz"
+    },
+    {
+      "area": "4b",
+      "street_name": "Theresienstraße 1 - 39"
+    },
+    {
+      "area": "5b",
+      "street_name": "Schleifweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Theresienstraße  2 - 36"
+    },
+    {
+      "area": "1a",
+      "street_name": "Schondraweg"
+    },
+    {
+      "area": "4a",
+      "street_name": "Theresienstraße 39 ½ - 43"
+    },
+    {
+      "area": "1b",
+      "street_name": "Schönerstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Theresienstraße 40 - 44"
+    },
+    {
+      "area": "3b",
+      "street_name": "Schopperstraße 18 - 40"
+    },
+    {
+      "area": "3a",
+      "street_name": "Theuerbrünnleinsweg"
+    },
+    {
+      "area": "3a",
+      "street_name": "Schopperstraße 2 - 14"
+    },
+    {
+      "area": "3a",
+      "street_name": "Thomas-Mann-Straße"
+    },
+    {
+      "area": "3b",
+      "street_name": "Schopperstraße 21 - 47"
+    },
+    {
+      "area": "1a",
+      "street_name": "Thulbaweg"
+    },
+    {
+      "area": "3a",
+      "street_name": "Schopperstraße 9 - 19"
+    },
+    {
+      "area": "1b",
+      "street_name": "Tilmann-Riemenschneider-Str."
+    },
+    {
+      "area": "4a",
+      "street_name": "Schrammstraße 1 - 3"
+    },
+    {
+      "area": "5a",
+      "street_name": "Tilsitstraße"
+    },
+    {
+      "area": "4a",
+      "street_name": "Schrammstraße 2 - 22"
+    },
+    {
+      "area": "3a",
+      "street_name": "Turnierweg"
+    },
+    {
+      "area": "5b",
+      "street_name": "Schulgasse"
+    },
+    {
+      "area": "2a",
+      "street_name": "Schultesstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Uferstraße"
+    },
+    {
+      "area": "2b",
+      "street_name": "Schützenstraße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Uhlandstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Schwalbenweg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Ulmenweg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Schwanbergstraße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Unterer Kiliansberg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Schwarzachweg"
+    },
+    {
+      "area": "4b",
+      "street_name": "Schwarzer Weg"
+    },
+    {
+      "area": "1b",
+      "street_name": "Veit-Stoss-Straße"
+    },
+    {
+      "area": "4b",
+      "street_name": "Seestraße"
+    },
+    {
+      "area": "1b",
+      "street_name": "Voitstraße"
+    },
+    {
+      "area": "1a",
+      "street_name": "Segnitzstraße"
+    },
+    {
+      "area": "5b",
+      "street_name": "Vorderer Kindleinsweg"
+    },
+    {
+      "area": "2a",
+      "street_name": "Sennfelder Bahnhof"
+    },
+    {
+      "area": "2b",
+      "street_name": "Vordere Lettenleite"
+    },
+    {
+      "area": "2a",
+      "street_name": "Siebenbrückleinsgasse"
+    },
+    {
+      "area": "3a",
+      "street_name": "Siedlerweg"
+    },
+    {
+      "area": "3b",
+      "street_name": "Walter-Flex-Straße"
+    },
+    {
+      "area": "2a",
+      "street_name": "Silbersteinstraße"
+    },
+    {
+      "area": "3a",
+      "street_name": "Walther-v.-d.-Vogelweide-Str."
+    },
+    {
+      "area": "1a",
+      "street_name": "Sinnweg"
+    },
+    {
+      "area": "1a",
+      "street_name": "Wassernachweg"
+    }
+  ]

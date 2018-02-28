@@ -23,8 +23,8 @@
     <div class="col-8 searchresults">
       <div v-for="res in filteredResults" class="card">
         <div class="card-header">
-          <div class="card-title h4">{{res.name}}</div>
-          <div class="card-subtitle text-gray">Abschnitt {{res.reg}}</div>
+          <div class="card-title h4">{{res.street_name}}</div>
+          <div class="card-subtitle text-gray">Abschnitt {{res.area}}</div>
           <div class="card-body">
             Die nächsten Termine: ...
           </div>
@@ -39,16 +39,15 @@
 </template>
 
 <script>
+import json_data from '../assets/data.json'
+
 export default {
   name: 'MainSearchComponent',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
       search: "",
-      streets: [
-        {'reg': '1a', 'name': 'Christoph-Krebsstr.7'},
-        {'reg': '1b', 'name': 'Gartenstrasse'},
-      ]
+      streets: json_data
     }
   },
   methods: {
@@ -60,7 +59,7 @@ export default {
   computed: {
     filteredResults: function(){
       return this.streets.filter((street) => {
-        return street.name.match(this.search);
+        return street.street_name.toLowerCase().match(this.search.toLowerCase());
       })
     }
   }
@@ -70,7 +69,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .searchbox {
-  background-color: azure;
+  background-color: white;
 }
 
 
