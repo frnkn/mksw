@@ -2,15 +2,32 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="language" content="DE">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <title>Der Müllkalender für Schweinfurt</title>
-    <meta name="description" content="Der bessere Müllkalender für Schweinfurt">
+    <title>Der Online Müllabfuhr Kalender für Schweinfurt</title>
+    <meta name="description" content="Der einfache Online Müllabfuhrkalender für Schweinfurt. Straße suchen, Müllabfuhrtermine nachsehen, Fertig.">
     <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1646548-18"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-1646548-18');
+    </script>
 
   </head>
   <body>
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.12&appId=583819025130102&autoLogAppEvents=1';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
     <div id="app"></div>
     <!-- built files will be auto injected -->
-    <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
   </body>
 </html>

@@ -2,7 +2,7 @@
 
   <div id="app">
     <loading-screen v-if="isLoading"></loading-screen>
-    <img class="logo" src="./assets/pig_2.svg">
+    <a href="/"><img class="logo" src="./assets/pig_2.svg"></a>
     <router-view/>
   </div>
 </template>
@@ -24,6 +24,10 @@ export default {
 </script>
 
 <style>
+html {
+  min-height: 100%;
+  position: relative;
+}
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

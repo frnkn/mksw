@@ -4,6 +4,9 @@
       <div class="col-12">
         <h1>Müllkalender für Schweinfurt</h1>
       </div>
+      <div class="col-12">
+        <div class="fb-like" data-href="http://muellabfuhrkalender-schweinfurt.frnkn.com" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+      </div>
       <div class="col-12 searchform">
         <form class="form-horizontal">
           <div class="form-group">
@@ -28,6 +31,7 @@
         </div>
       </div>
     </div>
+    <Footer></Footer>
   </div>
   
 </template>
@@ -35,9 +39,13 @@
 <script>
 import json_data from '../assets/data.json';
 import dates_per_area from '../assets/dates_per_area.json';
+import Footer from './Footer';
 
 export default {
   name: 'MainSearchComponent',
+  components: {
+    Footer
+  },
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
@@ -72,5 +80,8 @@ export default {
   margin-bottom: 30px;
 }
 
+.searchform {
+  margin-top: 20px;
+}
 
 </style>

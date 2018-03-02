@@ -1,13 +1,15 @@
 <template>
-<div>
-  <h1>Müllabfuhrtermine für {{ $route.params.street_name }} in Schweinfurt</h1>
-  <p>Der Nächste Termin für den Bereich {{ $route.params.area_id }} findet in <strong>{{this.nearest_date.diff}} Tagen</strong> am <strong>{{this.nearest_date.date}}</strong> statt.</p>
+<div class="container grid-md">
+    <div class="col-12">
+        <h1>Müllabfuhrtermine für <small class="label">{{ $route.params.street_name }}</small> in Schweinfurt</h1>
+        <p>Der Nächste Müllabfuhrtermin für den Bereich {{ $route.params.area_id }} findet in <strong>{{this.nearest_date.diff}} Tagen</strong> am <strong>{{this.nearest_date.date}}</strong> statt.</p>
 
-  <p>Die nächstern Termine lauten:</p>
-  <ul>
-      <li v-for="date in calc_dates.dates">{{date}}</li>
- </ul>
-
+        <p>Die nächstern Termine lauten:</p>
+        <ul>
+            <li v-for="date in calc_dates.dates">{{date}}</li>
+        </ul>
+    </div>
+<Footer></Footer>
 </div>
 </template>
 
@@ -16,10 +18,13 @@
 
 import dates_per_area from '../assets/dates_per_area.json';
 import moment from 'moment';
+import Footer from './Footer';
 
 export default {
     name: 'DetailComponent',
-
+    components: {
+        Footer
+    },
     methods: {
         findDatesByArea: function(area_id){
             let obj = dates_per_area.find(o => o.area === area_id);
@@ -28,12 +33,12 @@ export default {
         findClosestDate: function(area_id){
             var closest_date = {days_left: null, next_date: null};
             let dates = this.findDatesByArea(area_id);
-            console.log("THE DATES", dates);
+            //console.log("THE DATES", dates);
             var normalized_dates = this._normalizeDates(dates.dates);
-            console.log(normalized_dates);
+            //console.log(normalized_dates);
             var obj_arr = this._makeDayDiffs(normalized_dates);
             var closest = this._getClosestDateAndDiff(obj_arr);
-            console.log("CLOSEST TO REDNDER", closest);
+            //console.log("CLOSEST TO REDNDER", closest);
 
             return closest;
         },
@@ -52,7 +57,7 @@ export default {
 
             dates.forEach(d => {
                 var diff = d.diff(today, 'days');
-                console.log("DIFF", d, diff);
+                //console.log("DIFF", d, diff);
 
                 if (diff > 0) {
                     console.log("valid diff", d, diff)
@@ -60,7 +65,7 @@ export default {
                 }
             });
 
-            console.log("neg diffs", dates_with_pos_diffs);
+            //console.log("neg diffs", dates_with_pos_diffs);
             return dates_with_pos_diffs;
         },
         _getClosestDateAndDiff: function(obj_arr){
@@ -72,7 +77,7 @@ export default {
                 min = Math.min(min, obj.diff)
             });
 
-            console.log("MIN", min);
+            //console.log("MIN", min);
 
             var error = false;
 
@@ -86,7 +91,7 @@ export default {
                 }
             });
 
-            console.log("CL", closest);
+            //console.log("CL", closest);
             return closest
 
             
@@ -100,21 +105,7 @@ export default {
             return this.findClosestDate(this.$route.params.area_id);
         }
     }
-}
-/*findClosestNextDate: function(area_id){
-        var closest_date = {days_left: null, next_date: null};
-
-        let dates = this.findDatesByArea(area_id);
-        console.log("DATES", dates);
-        /*
-        let today = moment();
-        console.log("TODAY", today);
-        var parsed_dates = [];
-        dates.dates.forEach(d => {
-            console.log(moment(d, 'DD-MM-YYYY'))
-            parsed_dates.push(moment(d, 'DD-MM-YYYY'))
-        });*/
-       
+}       
 </script>
 
        
