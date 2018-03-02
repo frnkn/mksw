@@ -9,6 +9,8 @@
             <li v-for="date in calc_dates.dates"><strong>{{date}}</strong></li>
         </ul>
     </div>
+    <div class="col-12 spacer">
+    </div>
 <Footer></Footer>
 </div>
 </template>
@@ -107,5 +109,10 @@ export default {
     }
 }       
 </script>
+<style scoped>
+    .spacer {
+        margin-bottom: 400px;
+    }
+</style>
 
        

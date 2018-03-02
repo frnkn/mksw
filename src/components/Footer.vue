@@ -29,7 +29,7 @@ footer {
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 100px;
+    height: 150px;
     width: 100%;
     overflow:hidden;
 
