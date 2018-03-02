@@ -5,7 +5,7 @@
         <h1>Müllkalender für Schweinfurt</h1>
       </div>
       <div class="col-12">
-        <div class="fb-like" data-href="http://muellabfuhrkalender-schweinfurt.frnkn.com" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+        <div class="fb-like" data-href="http://muellkalender-schweinfurt.frnkn.com/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
       </div>
       <div class="col-12 searchform">
         <form class="form-horizontal">
