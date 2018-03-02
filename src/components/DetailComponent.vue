@@ -6,7 +6,7 @@
 
         <p>Die nächstern Termine lauten:</p>
         <ul>
-            <li v-for="date in calc_dates.dates">{{date}}</li>
+            <li v-for="date in calc_dates.dates"><strong>{{date}}</strong></li>
         </ul>
     </div>
 <Footer></Footer>
