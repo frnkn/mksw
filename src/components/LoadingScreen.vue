@@ -1,5 +1,5 @@
 <template>
-  <div>is loading...</div>
+  <div>Einen Moment bitte. Gleich geht's los...</div>
 </template>
 
 <script>

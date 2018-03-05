@@ -1,25 +1,16 @@
 <template>
 
   <div id="app">
-    <loading-screen v-if="isLoading"></loading-screen>
     <a href="/"><img class="logo" src="./assets/pig_2.svg"></a>
     <router-view/>
+    </div>
   </div>
 </template>
 
 <script>
-import LoadingScreen from './components/LoadingScreen';
 
 export default {
-  name: 'App',
-  data: {
-    isLoading: true
-  },
-  mounted (){
-    setTimeout(() => {
-      this.isLoading = false; 
-    }, 3000)
-  },
+  name: 'App'
 }
 </script>
 

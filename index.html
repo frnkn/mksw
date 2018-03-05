@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="language" content="DE">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>Der Online Müllabfuhr Kalender für Schweinfurt</title>
     <meta name="description" content="Der einfache Online Müllabfuhrkalender für Schweinfurt. Straße suchen, Müllabfuhrtermine nachsehen, Fertig.">
@@ -20,14 +21,42 @@
   </head>
   <body>
       <div id="fb-root"></div>
-      <script>(function(d, s, id) {
+      
+    <div id="app">
+      <div class="container grid-md">
+        <div class="col-12 loading_screen">
+        
+        <img title="Müllkalender Schweinfurt" class="img-responsive centered" src="data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MTIgNTEyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgd2lkdGg9IjEyOHB4IiBoZWlnaHQ9IjEyOHB4Ij4KPGNpcmNsZSBzdHlsZT0iZmlsbDojMzg2ODk1OyIgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMjU2Ii8+CjxnPgoJPHBvbHlnb24gc3R5bGU9ImZpbGw6IzI3M0I3QTsiIHBvaW50cz0iNDQuNjMyLDI0NC45NzkgMTUxLjcyNiwzNTIuMDczIDE1MS43MjYsMjM5LjYyMyAgIi8+Cgk8cGF0aCBzdHlsZT0iZmlsbDojMjczQjdBOyIgZD0iTTQyOS44NDIsMjAyLjAxNkwxNDguNTE2LDM1OWwxNDkuNDczLDE0OS41NTJjMTEyLjc2Ni0xOC42MSwyMDAuNjgtMTEwLjg5NywyMTIuNjItMjI1Ljc3NiAgIEw0MjkuODQyLDIwMi4wMTZ6Ii8+CjwvZz4KPHBhdGggc3R5bGU9ImZpbGw6I0QzNDA0MDsiIGQ9Ik0zMjkuOTIzLDIxNC4xNjFjNi4yMzItMjcuNzkzLDMzLjgxNC00NS4yNzMsNjEuNjA5LTM5LjA0MWMyNy43OTUsNi4yMzIsNzUuODM4LDY5Ljg2LDc1LjgzOCw2OS44NiAgUzM5Ni43NTcsMjgyLDM2OC45NjQsMjc1Ljc2OEMzNDEuMTcxLDI2OS41MzYsMzIzLjY5MSwyNDEuOTU0LDMyOS45MjMsMjE0LjE2MXoiLz4KPHBhdGggc3R5bGU9ImZpbGw6I0ZGNjI2MjsiIGQ9Ik0xODIuMDc3LDIxNC4xNjFjLTYuMjMyLTI3Ljc5My0zMy44MTQtNDUuMjczLTYxLjYwOS0zOS4wNDFzLTc1LjgzNiw2OS44Ni03NS44MzYsNjkuODYgIHM3MC42MTMsMzcuMDIxLDk4LjQwNiwzMC43ODlTMTg4LjMwOSwyNDEuOTU0LDE4Mi4wNzcsMjE0LjE2MXoiLz4KPGVsbGlwc2Ugc3R5bGU9ImZpbGw6I0ZGQUQ5RTsiIGN4PSIyNTYiIGN5PSIyNzYuNjg3IiByeD0iMTQ0LjgwOCIgcnk9IjEyMi44MjgiLz4KPHBhdGggc3R5bGU9ImZpbGw6I0Q2NkU2MTsiIGQ9Ik0yNTYsMTUzLjg2Yy0wLjE5MywwLTAuMzgxLDAuMDEyLTAuNTc0LDAuMDEydjI0NS42MzJjMC4xOTMsMCwwLjM4MSwwLjAxMiwwLjU3NCwwLjAxMiAgYzc5Ljk3NSwwLDE0NC44MDgtNTQuOTkzLDE0NC44MDgtMTIyLjgyOFMzMzUuOTc1LDE1My44NiwyNTYsMTUzLjg2eiIvPgo8Zz4KCTxjaXJjbGUgc3R5bGU9ImZpbGw6IzFFMjYyQjsiIGN4PSIxODYuMDQ0IiBjeT0iMjkzLjQ5NSIgcj0iOC4xODkiLz4KCTxjaXJjbGUgc3R5bGU9ImZpbGw6IzFFMjYyQjsiIGN4PSIzMjUuOTU2IiBjeT0iMjkzLjQ5NSIgcj0iOC4xODkiLz4KPC9nPgo8ZWxsaXBzZSBzdHlsZT0iZmlsbDojRkY2MjYyOyIgY3g9IjI1NiIgY3k9IjM0MS4zMzMiIHJ4PSI1Ny40NTgiIHJ5PSIzNC45MDkiLz4KPHBhdGggc3R5bGU9ImZpbGw6I0QzNDA0MDsiIGQ9Ik0yNTYsMzA2LjQyOGMtMC4xOTMsMC0wLjM4MywwLjAwNy0wLjU3NCwwLjAwOXY2OS44MDFjMC4xOTEsMC4wMDIsMC4zODEsMC4wMDksMC41NzQsMC4wMDkgIGMzMS43MzUsMCw1Ny40NjMtMTUuNjI5LDU3LjQ2My0zNC45MDlDMzEzLjQ2MywzMjIuMDU3LDI4Ny43MzUsMzA2LjQyOCwyNTYsMzA2LjQyOHoiLz4KPGNpcmNsZSBzdHlsZT0iZmlsbDojQ0MzNjM2OyIgY3g9IjIyOS4yNzkiIGN5PSIzNDEuMzMzIiByPSI4LjYyIi8+CjxjaXJjbGUgc3R5bGU9ImZpbGw6I0JDMkYyRjsiIGN4PSIyODIuNzIxIiBjeT0iMzQxLjMzMyIgcj0iOC42MiIvPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8L3N2Zz4K" />
+
+        <h1>Müllkalender Schweinfurt</h1>
+        <div class="loading loading-lg"></div>
+        <p class="intro-text">Einen Moment bitte. Gleich geht's los...</p>
+      </div>
+      </div>
+    </div>
+    <style>
+      .intro-text {
+        margin-top: 15px;
+      }
+
+      .loading_screen {
+        margin-top: 20px;
+        text-align: center;
+        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      
+    </style>
+ 
+    <!-- built files will be auto injected -->
+    <script>(function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
         js.src = 'https://connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.12&appId=583819025130102&autoLogAppEvents=1';
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));</script>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
   </body>
 </html>

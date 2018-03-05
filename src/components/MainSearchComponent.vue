@@ -1,4 +1,5 @@
 <template>
+<transition appear name="fade" mode="out-in">
   <div class="container grid-md">
     <div class="columns searchbox">
       <div class="col-12">
@@ -33,7 +34,7 @@
     </div>
     <Footer></Footer>
   </div>
-  
+</transition>
 </template>
 
 <script>
