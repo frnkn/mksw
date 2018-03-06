@@ -5,9 +5,10 @@
         <p>Der Nächste Müllabfuhrtermin für den Bereich {{ $route.params.area_id }} findet in <strong>{{this.nearest_date.diff}} Tagen</strong> am <strong>{{this.nearest_date.date}}</strong> statt.</p>
 
         <p>Die nächstern Termine lauten:</p>
-        <ul>
-            <li v-for="date in calc_dates.dates"><strong>{{date}}</strong></li>
+        <ul class="centered">
+             <li v-for="date in calc_dates_week_day"><strong>{{date.weekday}}, der {{date.date}}</strong></li>
         </ul>
+
     </div>
     <div class="col-12 spacer">
     </div>
@@ -28,6 +29,19 @@ export default {
         Footer
     },
     methods: {
+        findDatesByAreaWithWeekDay: function(area_id){
+            let weekdays = {1: "Montag", 2: "Dienstag", 3: "Mittwoch", 4: "Donnerstag", 5: "Freitag", 6: "Samstag", 7: "Sonntag"}
+            let obj = dates_per_area.find(o => o.area === area_id);
+            var date_weekday = [];
+            //console.log("OBJEJEJEJEJ", obj)
+            obj.dates.forEach(o => {
+                //console.log("OBJECTTT", o);
+                //console.log(weekdays[moment(o, 'DD-MM-YYYY').isoWeekday()])
+                date_weekday.push({"date": moment(o, 'DD-MM-YYYY').format('DD.MM.YYYY'), "weekday": weekdays[moment(o, 'DD-MM-YYYY').isoWeekday()]})
+            });
+
+            return date_weekday;
+        },
         findDatesByArea: function(area_id){
             let obj = dates_per_area.find(o => o.area === area_id);
             return obj;
@@ -62,7 +76,7 @@ export default {
                 //console.log("DIFF", d, diff);
 
                 if (diff > 0) {
-                    console.log("valid diff", d, diff)
+                    //console.log("valid diff", d, diff)
                     dates_with_pos_diffs.push({diff: diff, date: d})
                 }
             });
@@ -75,7 +89,7 @@ export default {
             let min = Number.POSITIVE_INFINITY
 
             obj_arr.forEach(obj => {
-                console.log("OBJ", obj);
+                //console.log("OBJ", obj);
                 min = Math.min(min, obj.diff)
             });
 
@@ -87,7 +101,7 @@ export default {
 
             obj_arr.forEach(obj => {
                 if (obj.diff === min) {
-                    console.log("CLOSEST IS", obj)
+                    //console.log("CLOSEST IS", obj)
                     obj.date = obj.date.format('DD.MM.YYYY')
                     closest = obj;
                 }
@@ -105,6 +119,9 @@ export default {
         },
         nearest_date: function() {
             return this.findClosestDate(this.$route.params.area_id);
+        }, 
+        calc_dates_week_day: function(){
+            return this.findDatesByAreaWithWeekDay(this.$route.params.area_id)
         }
     }
 }       

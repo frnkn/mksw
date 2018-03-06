@@ -4,6 +4,7 @@
     <div class="columns searchbox">
       <div class="col-12">
         <h1>Müllkalender für Schweinfurt</h1>
+        <p>Straße suchen & Müllabfuhrtermine einsehen.</p>
       </div>
       <div class="col-12">
         <div class="fb-like" data-href="http://muellkalender-schweinfurt.frnkn.com/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
